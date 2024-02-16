@@ -40,11 +40,10 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `name`, `password`, `dob`, `email`, `level`) VALUES
-(1, 'soni', 'adminsoni', '2019-07-24', 'sunayanasahoo9146@gmail.com', 1),
 (2, 'whysoserious', 'hgdvcghvdhg', '1996-11-22', 'principaljupiterpublic@gmail.com', 1),
 (3, 'chiku', '1111', '1996-11-22', 'cs.shiba@hotmail.com', 2),
 (4, 'dsd', '1111', '2019-11-03', 'shibaprasadjena12@gmail.com', 2),
-(5, 'Chiku Viper', 'adminsoni', '2000-06-16', 'chikubtech@gmail.com', 2),
+(5, 'Chiku Viper', 'admin', '2000-06-16', 'chikubtech@gmail.com', 2),
 (7, 'pinku', 'adminchiku', '1999-06-11', 'satyaprasadjena9@gmail.com', 2);
 
 -- --------------------------------------------------------
